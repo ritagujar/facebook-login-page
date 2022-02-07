@@ -1,0 +1,30 @@
+body {
+  background-color: whitesmoke;
+}
+.row {
+  margin-top: 150px;
+}
+h1 {
+  font-size: 70px;
+  color: #1877f2;
+  font-family: Helvetica, Arial, sans-serif;
+}
+input {
+  margin-top: 10px;
+}
+button {
+  margin-top: 10px;
+}
+form {
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+}
+a {
+  display: block;
+  margin-top: 10px;
+}
+.btn-success {
+  display: block !important;
+  margin-left: 100px;
+}
